@@ -1,0 +1,27 @@
+body {
+    background-image: url('./Wedding_bg.jpg');
+    background-size:cover;
+
+}
+
+#nav1 {
+    background-color:#F00; 
+    opacity: 0.5; 
+    filter:(opacity=50);
+}
+#main_menu {
+    font-family: 'Tangerine', serif;
+    font-weight: bolder;
+    font-size: 50px;
+    color: rgb(119, 87, 28);
+}
+.btn-success {
+    background-color:rgb(136, 99, 5);
+    color: rgb(160, 147, 114);
+    border-color: rgb(136, 99, 5);
+}
+.btn-success:hover {
+    background-color:rgb(73, 53, 3);
+    border-color: rgb(73, 53, 3);
+    color: rgb(236, 202, 116);
+}
