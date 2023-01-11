@@ -1,7 +1,5 @@
 .background-image {
-    background-image: url('/pics/Wedding_bg.jpg'); 
     height: 100vh;
-    background-size: cover;
     filter: blur(8px);
 }
 
@@ -25,4 +23,8 @@
     background-color:rgb(73, 53, 3);
     border-color: rgb(73, 53, 3);
     color: rgb(236, 202, 116);
+}
+body {
+    background-image: url('/pics/Wedding_bg.jpg');
+    background-size: cover;
 }
