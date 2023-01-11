@@ -12,9 +12,10 @@
   color: rgb(119, 87, 28);
 }
 #main_menu {
-  padding: 15px;
+  
+  padding: 5px;
   font-family: "Tangerine", serif;
-  font-weight: bolder;
+  font-weight:500;
   font-size: 60px;
   color: rgb(119, 87, 28);
 }
@@ -35,6 +36,6 @@ body {
 
 #greet {
   font-family: "Tangerine", serif;
-  font-weight: bolder;
+  font-weight: 200;
   color: rgb(119, 87, 28);
 }
